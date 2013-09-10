@@ -1,2 +1,2 @@
-add_lunch_combo cm_jfltexx-eng
+add_lunch_combo osr_jfltexx-eng
 
