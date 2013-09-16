@@ -22,3 +22,6 @@ DEVICE_PACKAGE_OVERLAYS += device/samsung/jf-common/overlay-gsm
 
 # Inherit from jf-common
 $(call inherit-product, device/samsung/jf-common/jf-common.mk)
+
+#Force Languages
+PRODUCT_LOCALES := ca_ES en_US en_GB fr_FR it_IT de_DE
